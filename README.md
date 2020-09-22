@@ -1,4 +1,36 @@
-Role Name
+![Contributors](https://img.shields.io/github/contributors/desainis/aws-elb)
+![Forks](https://img.shields.io/github/forks/desainis/aws-elb)
+![Stargazers](https://img.shields.io/github/stars/desainis/aws-elb)
+![Issues](https://img.shields.io/github/issues/desainis/aws-elb)
+![MIT License](https://img.shields.io/github/license/desainis/aws-elb)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/desainis/aws-elb">
+    <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Mango.png?hsLang=en-us" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Todos App</h3>
+
+  <p align="center">
+    This sample web application is used to demonstrate how to manage complex AWS Architectures using Ansible.
+    <br />
+    <a href="https://github.com/desainis/aws-elb"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/desainis/aws-elb">View Demo</a>
+    ·
+    <a href="https://github.com/desainis/aws-elb/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/desainis/aws-elb/issues">Request Feature</a>
+  </p>
+</p>
+
+------------
+
+Ansible Role: aws-elb
 =========
 
 A brief description of the role goes here.
